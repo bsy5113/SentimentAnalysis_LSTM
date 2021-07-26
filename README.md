@@ -1,2 +1,3 @@
 ## SentimentAnalysis_LSTM
-Movie Review data
+
+Simple and easy breakdown of RNN LSTM and demonstration of LSTM set up using Movie Review data
