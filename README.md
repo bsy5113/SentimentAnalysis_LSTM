@@ -1,1 +1,1 @@
-# SentimentAnalysis_LSTM
+# SentimentAnalysis_LSTM using Movie Review data
